@@ -1,0 +1,20 @@
+id: A44C68238
+title: Toh_336-The_Rite_for_the_Protocols_Associated_with_Carrying_the_Ringing_Staff-v2
+type: translation
+pechas:
+- I3CC8F582
+- I7A08930A
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-036
+  eft-text-version: 1.0.7 2021
+  title: Toh_336-The_Rite_for_the_Protocols_Associated_with_Carrying_the_Ringing_Staff-v2
+alignment_to_base:
+  I3CC8F582/7B47: FBBA
+  I7A08930A/4491: FBBA
